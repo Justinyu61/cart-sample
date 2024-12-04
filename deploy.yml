@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://github.com/Justinyu61/cart-sample/
+      url: https://Justinyu61.github.io/cart-sample/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
